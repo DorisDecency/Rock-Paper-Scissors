@@ -1,4 +1,4 @@
-This is the link to this project
+This is the link to view this project
  https://dorisdecency.github.io/Rock-Paper-Scissors/
 
 # Rock-Paper-Scissors
